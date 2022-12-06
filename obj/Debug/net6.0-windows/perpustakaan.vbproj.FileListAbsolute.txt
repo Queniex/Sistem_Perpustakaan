@@ -1,0 +1,139 @@
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.Perpustakaan.resources
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfo.vb
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\perpustakaan\bin\Debug\net6.0-windows\perpustakaan.exe
+C:\Users\hp\source\repos\perpustakaan\bin\Debug\net6.0-windows\perpustakaan.deps.json
+C:\Users\hp\source\repos\perpustakaan\bin\Debug\net6.0-windows\perpustakaan.runtimeconfig.json
+C:\Users\hp\source\repos\perpustakaan\bin\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\perpustakaan\bin\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\refint\perpustakaan.dll
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.genruntimeconfig.cache
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\ref\perpustakaan.dll
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.Resources.resources
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.TambahKoleksi.resources
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.HapusKoleksi.resources
+C:\Users\hp\source\repos\perpustakaan\obj\Debug\net6.0-windows\perpustakaan.InfoTambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.exe
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.deps.json
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.runtimeconfig.json
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.HapusKoleksi.resources
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.InfoTambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Resources.resources
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Perpustakaan.resources
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.TambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfo.vb
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\refint\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.genruntimeconfig.cache
+C:\Users\hp\source\repos\Vis_Perpustakaan_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\ref\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.exe
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.deps.json
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.runtimeconfig.json
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.HapusKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.InfoTambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Resources.resources
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Perpustakaan.resources
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.TambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfo.vb
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\refint\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.genruntimeconfig.cache
+C:\Users\hp\source\repos\Vis_Tugas6_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\ref\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.exe
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.deps.json
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.runtimeconfig.json
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.HapusKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.InfoTambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Resources.resources
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Perpustakaan.resources
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.TambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfo.vb
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\refint\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.genruntimeconfig.cache
+C:\Users\hp\source\repos\Vis_Tugas7_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\ref\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.exe
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.deps.json
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.runtimeconfig.json
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.HapusKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.InfoTambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Resources.resources
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Perpustakaan.resources
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.TambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfo.vb
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\refint\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.genruntimeconfig.cache
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\ref\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Login.resources
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.exe
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.deps.json
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.runtimeconfig.json
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.HapusKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.InfoTambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Login.resources
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Resources.resources
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.Perpustakaan.resources
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.TambahKoleksi.resources
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.AssemblyInfo.vb
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\refint\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.pdb
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.genruntimeconfig.cache
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\ref\perpustakaan.dll
+C:\Users\hp\source\repos\Vis_Tugas8_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.regist.resources
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.regist.resources
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.vbproj.CopyComplete
+C:\Users\hp\source\repos\Vis_Tugas9_2107411030_Fildzah Marissa Rusialdi\obj\Debug\net6.0-windows\perpustakaan.update.resources
