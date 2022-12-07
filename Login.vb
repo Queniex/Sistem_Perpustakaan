@@ -22,9 +22,10 @@ Public Class Login
         Dim plainPassword As String = TxtPass.Text
         Dim chk = Users.CheckAuth(plainUsername, plainPassword)
         Dim count = chk.Count
+        'MessageBox.Show(chk)
 
         If count > 0 Then
-            Users.GSUserName = chk(1)(1)
+            Users.GSUserName = chk(0)(1)
             Perpustakaan.Show()
             Me.Hide()
         Else

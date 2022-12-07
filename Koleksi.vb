@@ -193,7 +193,7 @@ Public Class Koleksi
         Try
             DbConn.Open()
             sqlQuery = "INSERT INTO koleksi(id_koleksi, nama_koleksi, dir_gambar, deskripsi, penerbit, 
-                                        jenis_koleksi, tahun_terbit, lokasi, tgl_masuk,
+                                        jenis_koleksi, tahun_terbit, lokasi, tanggal_masuk_koleksi,
                                         stock, bahasa, kategori) VALUES ('','" & NamaKol & "','" _
                                         & Gambar & "','" & Deskripsi & "','" _
                                         & Penerbit & "','" & JenisKol & "','" _
@@ -226,7 +226,7 @@ Public Class Koleksi
                                   deskripsi AS 'Deskripsi',
                                   penerbit AS 'Penerbit',
                                   tahun_terbit AS 'Tahun Terbit',
-                                  tgl_masuk AS 'Tanggal Masuk',
+                                  tanggal_masuk_koleksi AS 'Tanggal Masuk',
                                   lokasi AS 'lokasi',
                                   stock AS 'Stock',
                                   bahasa AS 'Bahasa',
@@ -334,7 +334,7 @@ Public Class Koleksi
                         + "jenis_koleksi='" & JenisKol & "'," _
                         + "tahun_terbit='" & ThnTerbit & "'," _
                         + "lokasi='" & LokasiRak & "'," _
-                        + "tgl_masuk='" & TglMasuk & "'," _
+                        + "tanggal_masuk_koleksi='" & TglMasuk & "'," _
                         + "stock='" & Stok & "'," _
                         + "bahasa='" & Bahasa & "'," _
                         + "kategori='" & Kategori & "' WHERE id_koleksi='" & ID & "' "

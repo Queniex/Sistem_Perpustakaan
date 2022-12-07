@@ -128,8 +128,8 @@ Public Class TambahKoleksi
                                              )
 
         'Pembukaan form info Tambah Koleksi
-        Dim add_item = Perpustakaan.Koleksi.GSNamaKol
-        Perpustakaan.LbPerpus.Items.Add(add_item)
+        'Dim add_item = Perpustakaan.Koleksi.GSNamaKol
+        'Perpustakaan.LbPerpus.Items.Add(add_item)
 
         Dim info_koleksi = New InfoTambahKoleksi()
         info_koleksi.Show()
